@@ -1,39 +1,11 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T15:39:42Z",
+  "generated_at": "2026-11-03T18:30:17Z",
   "source_repo": "rockbox-y1/rockbox",
   "mirror_repo": "y1-community/rockbox-mirror",
   "title_prefix": "Portable Flashing Package: ",
   "updater_repo": "y1-community/updater-ce-neo",
   "platforms": [
-    {
-      "key": "windows",
-      "os": "windows",
-      "arch": "x86-64",
-      "suffix": "-windows.zip",
-      "layout": "sp_flash_tool"
-    },
-    {
-      "key": "windows-arm64",
-      "os": "windows",
-      "arch": "arm64",
-      "suffix": "-windows-arm64.zip",
-      "layout": "sp_flash_tool"
-    },
-    {
-      "key": "linux",
-      "os": "linux",
-      "arch": "x86-64",
-      "suffix": "-linux.zip",
-      "layout": "sp_flash_tool"
-    },
-    {
-      "key": "linux-arm64",
-      "os": "linux",
-      "arch": "arm64",
-      "suffix": "-linux-arm64.zip",
-      "layout": "sp_flash_tool"
-    },
     {
       "key": "macos",
       "os": "macos",
@@ -53,51 +25,19 @@
       "source_notes": "",
       "assets": [
         {
-          "name": "rom-windows.zip",
-          "source_asset": "rom.zip",
-          "platform": "windows",
-          "size": 825076561,
-          "sha256": "538267a9a42c22d109c3a2acddbd1291ca4422f93400b78e6efae3ae8ed7700c",
-          "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom-windows.zip"
-        },
-        {
-          "name": "rom-linux.zip",
-          "source_asset": "rom.zip",
-          "platform": "linux",
-          "size": 976387280,
-          "sha256": "0d08fd03561a98a5e21c42f426166750c539e143c608f63f5e526e4a84a14669",
-          "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom-linux.zip"
-        },
-        {
           "name": "rom-macos.zip",
           "source_asset": "rom.zip",
           "platform": "macos",
-          "size": 776291911,
-          "sha256": "746cc5315988c43403ae17259f76752525fe789b6dff4b7ca1e0cee20ba8ac95",
+          "size": 716764648,
+          "sha256": "2d76fc2f16949fda0bd0c7cd708c3e8cbf4a3714a6f973ea375544b1b281c879",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom-macos.zip"
-        },
-        {
-          "name": "rom_type_b-windows.zip",
-          "source_asset": "rom_type_b.zip",
-          "platform": "windows",
-          "size": 738600977,
-          "sha256": "690c94aa7efc1c618d5c9f72803cfe6a07dbc19ad6ba26ef1bc8dee63ac40013",
-          "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom_type_b-windows.zip"
-        },
-        {
-          "name": "rom_type_b-linux.zip",
-          "source_asset": "rom_type_b.zip",
-          "platform": "linux",
-          "size": 889911696,
-          "sha256": "6c05017b8148d255537ca70bb3221ae3cd264de47d93c83f197c1fa86244be9e",
-          "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom_type_b-linux.zip"
         },
         {
           "name": "rom_type_b-macos.zip",
           "source_asset": "rom_type_b.zip",
           "platform": "macos",
-          "size": 689816332,
-          "sha256": "6fd8185f851be7ba4fdfeb8e17c3059249cbe9ed287fba200f695998a5e224a6",
+          "size": 630289070,
+          "sha256": "7642869ede2511272abeb490c05a01b4c651ec5c39afa3c7e0361cdd795b41d0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0936ff79cff7ee5e47c6278b648d478824e709fa/rom_type_b-macos.zip"
         }
       ],
