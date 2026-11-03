@@ -1,0 +1,12 @@
+mikmod (https://mikmod.sourceforge.net/)
+
+Based on upstream commit b5f742e4e995d7503efee695ef26f275bba4c938
+corresponding to just after mikmod 3.2.10 / libmikmod 3.3.15
+
+Heavily customized for rockbox use:
+
+ * converted most BOOL/INTs in function prototypes to 'int'
+ * converted BOOL/INT in option enums to RB_BOOL / RB_INT
+ * Silenced a _ton_ of "unused parameter" options
+ * Custom player frontend that is fully i18n'd
+ * Settings for mixer freq, quality, and other parameters
