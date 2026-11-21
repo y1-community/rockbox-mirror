@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T01:43:50Z",
+  "generated_at": "2026-11-21T05:02:00Z",
   "source_repo": "rockbox-y1/rockbox",
   "source_fallback_repo": "",
   "mirror_repo": "y1-community/rockbox-mirror",
@@ -106,7 +106,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 823633115,
-          "sha256": "5d8f665dd0248ad21b44482e5a9b62ad345e876de0867ecc56cf2de0dfc05d1f",
+          "sha256": "09f9fdc35d55fee7e61344f4cc3fb42c8875d05d0c8a5e2c660c5976a4780b8e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6.1/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6.1/rom-linux.zip"
         },
@@ -117,7 +117,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 648538673,
-          "sha256": "46062bd317d049332c6a024be8f4bb11ca031c2fe3a2aae072659a1f84e7f7b4",
+          "sha256": "c30b3bac95f9bdbca6f79c2f3e9924c09a7e8d37ea39a71261f84a2b01774e98",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6.1/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6.1/rom-linux-arm64.zip"
         },
@@ -172,7 +172,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 737600587,
-          "sha256": "331b58b302eb01c3d017c8a27c8a7f8e73c79daa396fee68c0f93824cc8a2741",
+          "sha256": "1870cb0ca3e3f68199e7ecd42e8cceedea7e47981731eca264d65fc10aec3e1c",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6.1/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6.1/rom_type_b-linux.zip"
         },
@@ -183,7 +183,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 562506145,
-          "sha256": "2f4f317907a272c0094a964d935d05605810ad28b545eea7b397a9acf3ac8078",
+          "sha256": "32154a9abaed5434bd1e7f2394d491db9178c873428fcd5aeaf0b91d19282c4d",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6.1/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6.1/rom_type_b-linux-arm64.zip"
         },
@@ -257,7 +257,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 827278848,
-          "sha256": "74ea64e6e78fb82236b709a5d7c9a9285e21d8478eb7879a71bf7130ad96eaad",
+          "sha256": "a5c360730d521bc4faa18596199e77a58f109382f71d438f8fe5a0bf53c5b06f",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom-linux.zip"
         },
@@ -268,7 +268,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 652184406,
-          "sha256": "053fc2a29316a2db4c13afcc1fa6462f606f0398ff5de4fbf3043b2a65381525",
+          "sha256": "5b577b644e644e0065077213d3b4e93b1e9cfc668b3e142bb2299d7c5558f9f8",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom-linux-arm64.zip"
         },
@@ -323,7 +323,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 740768105,
-          "sha256": "0dfd53fa434b38cd7d91e1a2b57655532428f96a427142d505c8375de01c10c9",
+          "sha256": "ea1244d8c16985bed7781d31ca9475d5e6a6b191fdd4eacd02d31413a5f3156f",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom_type_b-linux.zip"
         },
@@ -334,7 +334,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 565673663,
-          "sha256": "5a1d0b3efe7399dd3948637ffc5bfb4a387386ffaeb29f2f5080dfa98df3449f",
+          "sha256": "56b3eeed9bd96a0392558f17dd5921487fd7c250f57d093373eeff2e0f4b3e59",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-a8c63c04f0030dca6bc193a437767e1838067b67/rom_type_b-linux-arm64.zip"
         },
@@ -486,7 +486,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 830739713,
-          "sha256": "44911fc9d13011ae2eb7d2316e2533364b6c868c2094d5c26a4db350a0c8f277",
+          "sha256": "1ca91f2a9cb5b11d3c4fe81ed0969f55015f3986dd68897a6e09af46f64f4026",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6/rom-linux.zip"
         },
@@ -497,7 +497,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 655645271,
-          "sha256": "063d8d3b0254c00081a66d84d3d4ba4def850235cea32b04bedf8af492d59f22",
+          "sha256": "1468e3a629e9ed7d3a65f430376ba07f498bc05e7134b3843e7bb19731925778",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6/rom-linux-arm64.zip"
         },
@@ -552,7 +552,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 744391698,
-          "sha256": "15ca285b26764134648a01f9383f1ba851cc44b2d7ef540839f74c125b7e87f7",
+          "sha256": "b0ca9aea4e3d02249c5f33ad0795107a3dee3d6809429028136cb6fa4133c5ae",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6/rom_type_b-linux.zip"
         },
@@ -563,7 +563,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 569297256,
-          "sha256": "f57ad3295c9a6156a7a10ea5c447db971329f335282132d6b88c544e1d2b51d4",
+          "sha256": "01a4415c2550a03959379a2c8777f3d433c50c6cc96ac7c8df47166c48e96c17",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.6/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.6/rom_type_b-linux-arm64.zip"
         },
@@ -637,7 +637,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 826616442,
-          "sha256": "c4504f9b1f9ec991c25493e499a9cdc40570488aa1ce5084b98b5321a229bc5c",
+          "sha256": "8ed3fa1bb6f394f60369906424a24c510a2dcfb1e9e6790157edb73fdf4fde07",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom-linux.zip"
         },
@@ -648,7 +648,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 651522000,
-          "sha256": "c459f3da2aeed48dd901d46186a2652c717740019eace6b27a2d7776d58d681d",
+          "sha256": "f962161243c4856f70e85353aac0ee3bd9c592e58ceef17e3cdb4b9c43cd25bb",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom-linux-arm64.zip"
         },
@@ -703,7 +703,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 741307360,
-          "sha256": "41feced90c2191df89e3f4be08a4068afde39416536534a58ef92a3b8b86301f",
+          "sha256": "8ad2c3d4a86eccc372e7aeae9214ea137143fa51554b1cd51c472eefa02475d4",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom_type_b-linux.zip"
         },
@@ -714,7 +714,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 566212918,
-          "sha256": "edf4436ee4ce8a9b1f529830ea9cd2f54c17fbfe79cd4bed9cd4c27bdb2275c3",
+          "sha256": "5b5a6b55b5cbdfd36332d1b06fcbb55ec4b4885a03131f6810f65811f5f95039",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9c92b93a5d582b3819a119162a14ad0b4178d2cd/rom_type_b-linux-arm64.zip"
         },
@@ -788,7 +788,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 833667707,
-          "sha256": "cb34b07070a3bfba57d92a88e943197b4f512cd96d83a5d71626145a34998697",
+          "sha256": "db416897de4aee3ab42ffd324f0fc5a50c4fbdbf934106e4bfdd332a6def2611",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom-linux.zip"
         },
@@ -799,7 +799,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 658573265,
-          "sha256": "3d8b38bd8f2da1d277a4fd3c67adc8164b3594816ab86f4d1e605cbe7766155a",
+          "sha256": "9bea31b3d13dcc1a9bb2dc2b77fc8f151be472164334ec701c587b7dc198d28c",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom-linux-arm64.zip"
         },
@@ -854,7 +854,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 743036114,
-          "sha256": "67c563f79aabe11c69448f3398c7cf1d87f4709d4d597e6dc1dd485ec5615a2d",
+          "sha256": "e7a56d273e4a4dcbee55a46c5993c1033be6ba188f86e58a491851aef381af9a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom_type_b-linux.zip"
         },
@@ -865,7 +865,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 567941672,
-          "sha256": "a0014b6a9dcc7de8689c148f75b7c501e8d1260c7794b3062fcc660bd7e53694",
+          "sha256": "fc176d4fcb76e528acc245d9161add39cf5e57cea1272ebb98bee3f394196d75",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-11d9072b8ae950dfe76b8d867f67ff1a048a8c24/rom_type_b-linux-arm64.zip"
         },
@@ -939,7 +939,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 838444754,
-          "sha256": "ee3356f3103c4a90ca13e4456c257d8075286832ffcb23f39e65eb51e69807f9",
+          "sha256": "a4f954b1b51c63f1d8dbdb3bb27c015193bea9edc820771307fcc076e146921e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom-linux.zip"
         },
@@ -950,7 +950,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 663350312,
-          "sha256": "7f076e05d40a084aca96112ea3a4b8e99fefec0076720645dbe0abc8d9224f99",
+          "sha256": "2ae99894a33b0f42d3dde1bdd40d51f4a0702ab86a27367c6055ee88a9a766b9",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom-linux-arm64.zip"
         },
@@ -1005,7 +1005,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 746160701,
-          "sha256": "9a7d64dae5bf4c1f1e617c5a2fac2597e7b097a59d192700835ce0b6b8e98bb5",
+          "sha256": "42faf8917d05f076d8706b4454569e302afecff1b3744a8a7961a124a072df45",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom_type_b-linux.zip"
         },
@@ -1016,7 +1016,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 571066259,
-          "sha256": "d0c70c1596ddaf2a9fdd5617360e4025d6a6e17b84f950c6b753c1846ee4fda0",
+          "sha256": "6ba0b503328a6e8f10068f6053f04c0ce21f45a4c94f1c73a674ea8f8b3b76ee",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-9733397325a7c3239cac067d86ca7682b11136b2/rom_type_b-linux-arm64.zip"
         },
@@ -1090,7 +1090,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 833836768,
-          "sha256": "ebf25fe241329465128c63c913e570344cd41c13c5c7b2228ae675a35114d056",
+          "sha256": "ba772f343e9668dce5b425f6deae649a9c20780a0c1c96d2a32585f90b2eacec",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom-linux.zip"
         },
@@ -1101,7 +1101,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 658742326,
-          "sha256": "a721d144b158a7d483bb37764ed71e6882b12b6e13e50bfe92d47bf8c7300138",
+          "sha256": "d6aaae88ea06e924ff1d5c1ea43006fb95be606d8d9d3961a85d72ee7ac9c083",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom-linux-arm64.zip"
         },
@@ -1156,7 +1156,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 750262522,
-          "sha256": "636a75ba4b92a95484eb2eb5a001279bf9cefa408f0fc4a3f5811ace0ca9c59e",
+          "sha256": "8dcc7c63626c5f10a0537750aaacf173c15cd405cc20e07a7a7f41386c6999cb",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom_type_b-linux.zip"
         },
@@ -1167,7 +1167,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 575168080,
-          "sha256": "200232940f76a81445d304b0fb3dd8c8b13bbd04a7c6b00ed423856716a22f0d",
+          "sha256": "c74c38fd43736a20a656f1556e293e58adc0d94eaedcd8f8bec35cc3cdaec5f3",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e879e4813d025c07d66dd89e17065fdedd3ba5c5/rom_type_b-linux-arm64.zip"
         },
@@ -1241,7 +1241,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 835743866,
-          "sha256": "37410333e84e65432d4478f7c62241972ca077fbb80f3de05160a0a77ec7c7c0",
+          "sha256": "ea7e5080d7e07c6b49f79ef07111af9cd711c4f1099f820d968dadd116f7af50",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom-linux.zip"
         },
@@ -1252,7 +1252,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 660649424,
-          "sha256": "5ca7b4a5b9ffae47219be8bf81a5c0666f00b3f37d4da918f9446279c5d848cb",
+          "sha256": "9cbb2c5b7b8540787c3abb377fd21d99426e5f0be3a14b78b4b5f17099dd7572",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom-linux-arm64.zip"
         },
@@ -1307,7 +1307,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 743347529,
-          "sha256": "6a4b4b79c5d2cf5063acb79272000e71be38c1ff33e4bd99331ed0354e3b7f67",
+          "sha256": "908358e5e42b9a12c93702bf7da5c13971ced731407ce3927253dfec65597627",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom_type_b-linux.zip"
         },
@@ -1318,7 +1318,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 568253087,
-          "sha256": "67a4b6b84a8fe2c9b7b8ef6d93b1ce91712bc0e1f841111757a940f4ab7d83f5",
+          "sha256": "7eb96d84c477b8582e4f6adff267217b06500bb516fedca645c6013091518d1e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-107480ccb359ec26a8f9d161d4e86efd3d6b1144/rom_type_b-linux-arm64.zip"
         },
@@ -1392,7 +1392,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 835726164,
-          "sha256": "acd284e0adef4163725ff8e70a5f727b2cca787a4dd10762274c7d297da868fa",
+          "sha256": "a8e71a9055cf545edc46be4af40594ef8f6ebbeb4580bdc0659a5cd33bc388bd",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom-linux.zip"
         },
@@ -1403,7 +1403,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 660631722,
-          "sha256": "60ca0cd8f757a7499b7c66944513c026d3c70bb421991524923ebb8ea3c4078f",
+          "sha256": "5b6fe4f9ef9b802a01a80420418dfcbf1bbd6d0b8495c89635638fa08b9d9f8b",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom-linux-arm64.zip"
         },
@@ -1458,7 +1458,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 751907791,
-          "sha256": "4f7cc68c9137b3cf8a998e006097402ced6632a03617f0b38a23b8bbf5ab84e4",
+          "sha256": "fea93345d72cc8992d2540aefdf5453c969f8c2a1fd742b6368eb12e4d46ee80",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom_type_b-linux.zip"
         },
@@ -1469,7 +1469,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 576813349,
-          "sha256": "0b526a246fede648deaf5c0352abb8e024435e5be0d35bb1a441dab99c9af297",
+          "sha256": "ed98234c9c44cb70a00b8a28c04253490f24096daf8f1919a3afc8a047569666",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e8b9dbab0ab4ab93c28dcb325fbcc032d07cf87b/rom_type_b-linux-arm64.zip"
         },
@@ -1543,7 +1543,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 834935137,
-          "sha256": "772afcf3405829ebc067083c4e26590500860b787eb55e67eb603431dae0d794",
+          "sha256": "ba6264b896a68c5c181980e04e30ccf7524269e18b6044b4b16a8c4d932f5007",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom-linux.zip"
         },
@@ -1554,7 +1554,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 659840695,
-          "sha256": "d9b6dd21b7f3567158f2d74dcf69a007b4fc9f43a1935a86a8f90bffe148e027",
+          "sha256": "08af88011cd44a76a574d2d99b657ed5c07a3fe2070433a0b95bd7b081add7ce",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom-linux-arm64.zip"
         },
@@ -1609,7 +1609,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 751030918,
-          "sha256": "78f2a62f373e2835615e3065b7d70cc25a0a7589d6ae60c6d94abc036cfc9323",
+          "sha256": "29edd5ae2d9683bb131edf8bcc80246622cc842a9d1b4a7d19d318adf5c47fc0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom_type_b-linux.zip"
         },
@@ -1620,7 +1620,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 575936476,
-          "sha256": "28fce69632f7d60d32f2e24d6112cb3e733d41098fbe5b17f812e6584f1b32a9",
+          "sha256": "0b37a3f1486d35a2328ecc2aadca7e6cd71f2e04d31b1cffaf4d886392fe4cd0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-f588b0f654632913a2bbb9f832e7ddf4571b7c40/rom_type_b-linux-arm64.zip"
         },
@@ -1694,7 +1694,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 833706775,
-          "sha256": "70d07fbd73e88219000046c89367d2c5a24547a177ea747537ee9bd7a93d15b6",
+          "sha256": "2e5b528380c53d76452050f04128a4adba60c81391e1ebc5d638e63e9bd36307",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom-linux.zip"
         },
@@ -1705,7 +1705,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 658612333,
-          "sha256": "7448828b698f5641cc99b78b8706b2a84c8ef09bfb3465b6c8da38d6159e213a",
+          "sha256": "96359edb068a1cd1b99c98f086a184a24beb2a9c60f6ca87daa8712d21638644",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom-linux-arm64.zip"
         },
@@ -1760,7 +1760,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 751771048,
-          "sha256": "001601e8a270520fea2f934425eb6acd19635db37ecfdcc435a192fcba1db2c2",
+          "sha256": "9273e86607ab99459dfd8426cc96fb3713bb5a07a9ea032fe1d389d8c6037d4b",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom_type_b-linux.zip"
         },
@@ -1771,7 +1771,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 576676606,
-          "sha256": "ee0254565ab34476f56b6c89753d01b8eb99f4149428d895290553b3b45c90b8",
+          "sha256": "93b35204b99bd3144fcee95030e5b97c4343d7bedb1cb3db15231854f4011dd8",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-ec32a663dfb8396080227de03846c30f07dc258d/rom_type_b-linux-arm64.zip"
         },
@@ -1845,7 +1845,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 835650456,
-          "sha256": "ac53fe64f21bbbc2caf5c5efa7e1bbd9339ba9726483087f71326952058e8938",
+          "sha256": "1b770de798de654cac52026dc29c3038c1a91cd708f7fcbac245a5f1a6b0aa05",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom-linux.zip"
         },
@@ -1856,7 +1856,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 660556014,
-          "sha256": "e12ea9456a4e2732af107ad45eafa39ac2780909b20e388f0065946b1d4f55b1",
+          "sha256": "a7d01e214683ea2ee383ea1ce13420af8f4499d8a386958085a4e4974810f5c3",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom-linux-arm64.zip"
         },
@@ -1911,7 +1911,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 743900906,
-          "sha256": "3f37317f6a0b0c398a1a63a5cef53ecfc258d8bb8c1c12cf93a6e5aa9024757f",
+          "sha256": "da090b38582b682d56a6664ee46603de526bf33a583c4784f7aaf64eb54b0aae",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom_type_b-linux.zip"
         },
@@ -1922,7 +1922,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 568806464,
-          "sha256": "b05681660887584f082fd82b70f395db58c10bc9cde6a5539a72fbf418289d3f",
+          "sha256": "29d4ccb7fdfa451adfc5cee34b8018ee85300ad07aec204b889bc1d049e1dc5a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-12f5649748fb4f0a31e385c65ec6e2933bca9fef/rom_type_b-linux-arm64.zip"
         },
@@ -1996,7 +1996,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 834924628,
-          "sha256": "a85aff5f7b40bdc713e986f3c9b722cc2413e67a831d1cc124921ebe625c889d",
+          "sha256": "eced2790248e368ed74d93775e34e4398f0f3203200be988020a99f51b8c5d5a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom-linux.zip"
         },
@@ -2007,7 +2007,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 659830186,
-          "sha256": "091f6d8ed4ebf3ee3c263c7f14f9ad15f4f51a2d6c6ce3c3ae01b0be897df188",
+          "sha256": "9f34bf3ebd23f682d6ea09ab21c6abe1c68cef390ea0f9c8d636f13d8847bd29",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom-linux-arm64.zip"
         },
@@ -2062,7 +2062,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 743885198,
-          "sha256": "de1cc10a08decd33150b54af580fff847406e859f596ff2a495ee84b54610b5d",
+          "sha256": "45e683d2e731022450b8288e23c8b95fae709a5d309bc62cf5409050cb63a9c3",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom_type_b-linux.zip"
         },
@@ -2073,7 +2073,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 568790756,
-          "sha256": "cb2c8934d5ee6b1396e034a4f20d337baa348c12b14eebda3cfa0605ef0ab2cd",
+          "sha256": "cbf2203e5b8cf6206ca346114be73d203143bf35630fda434c9548cfda50dee7",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-1a8c1fcd2e7a3e7eae0673030c9e173805d4636f/rom_type_b-linux-arm64.zip"
         },
@@ -2147,7 +2147,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 834890358,
-          "sha256": "254d5eddf8921be53fc9011e00d563b7dd69e8cf0099f8d19f0cfec230cf0f7b",
+          "sha256": "79e85cb49e40721c13fe7903488c133058cf949367fcfaff647386c7ac6ef027",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom-linux.zip"
         },
@@ -2158,7 +2158,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 659795916,
-          "sha256": "e7c1ed32c925e7158da8076d7967442851d4be83b443eab45b989a662d21ba5f",
+          "sha256": "e03463a4dfed01534b32244c5bf7cf700b1bc5bac4745c32bca967e93a836ec6",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom-linux-arm64.zip"
         },
@@ -2213,7 +2213,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 751858805,
-          "sha256": "170cc3408e1705e11af840c1218f052badf99f352bd383bbac45487feb4e24b1",
+          "sha256": "83fd9357a61cb63ca65e7154b45975cc40d0d681a5e2c0427aa5085a7ec719a0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom_type_b-linux.zip"
         },
@@ -2224,7 +2224,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 576764363,
-          "sha256": "d839f795c47b84c989e46a37c31c7a620fdae6db24ae04a85a26ae9f89eab796",
+          "sha256": "408a17d7444e5e0cbd7e7126326188f47a1664ee164943007390815f562204a7",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-abc6ac2fc4700171a3402d41714d618321895ce9/rom_type_b-linux-arm64.zip"
         },
@@ -2298,7 +2298,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 835070888,
-          "sha256": "597f9843dad0c0695c5e3cde472cdceaa7336b5470f7936c14eac108abdf6866",
+          "sha256": "aba4bd6ad2519a43e6aee9b0fa1e7c9d076055fb5ad8c5ecce8af5a6bb0ea928",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.5/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.5/rom-linux.zip"
         },
@@ -2309,7 +2309,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 659976446,
-          "sha256": "e99a4e376216314580f89bfac78a6b497b98a4e627a214d3d02ccf31384946cd",
+          "sha256": "651df447a3920955a036747a09586bf510fde630e53d6b564b1f2dcfb56c184f",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.5/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.5/rom-linux-arm64.zip"
         },
@@ -2364,7 +2364,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 742896406,
-          "sha256": "12b471f8394d01bba6e62710f7364486592d89e3c84b71901bfd284b8f71b4b5",
+          "sha256": "a6038ff0d8c93d3133f90f117378cb2dc7310a8175eb90360cb13da411779fc8",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.5/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.5/rom_type_b-linux.zip"
         },
@@ -2375,7 +2375,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 567801964,
-          "sha256": "31a320b81272bad401e3651e457cf41499cd37ab06361aa549b685e5a6bf325d",
+          "sha256": "b4ab15cd33aa054ae03b319a7561c4719a787f1673a287a8ec578bb0c8db5225",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.5/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.5/rom_type_b-linux-arm64.zip"
         },
@@ -2449,7 +2449,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 835665310,
-          "sha256": "ac9fc772f892714342a5efc0a8d7fca1f3a72ab7d56050c6c580e0119412cfcb",
+          "sha256": "39e9856702a3657fe839b29a9f5d489fede0c72b689080fe94528b5e2415b0b1",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom-linux.zip"
         },
@@ -2460,7 +2460,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 660570868,
-          "sha256": "87166b27f5bcbccc68bf5f40d39ddc39ab3105c5bf36260151af0fa059500c72",
+          "sha256": "dbc27dfaa16292942fc9d240970d514aa0539321c5b0f3fbda80dcc57c9fab3d",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom-linux-arm64.zip"
         },
@@ -2515,7 +2515,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 743824882,
-          "sha256": "c6deb4ec28b6ca7a735d1131bc11040120f971b387845e25e86b7f0e5b585a49",
+          "sha256": "d85ba7b792f30ef0ff46ed58d604317c39798d3c93b3efa9a1f4ca5184d2d23c",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom_type_b-linux.zip"
         },
@@ -2526,7 +2526,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 568730440,
-          "sha256": "3175ee2064d261f1555f63bb8eb577853d6676b104979b8dd75c86a54ca66bc2",
+          "sha256": "1c94e2239d824617d991fa93690eca6341a13b696e8f89357c5a0238dcd03ab6",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-051dece4e43d9ec5c35ab2809d28cfa3b9251e0d/rom_type_b-linux-arm64.zip"
         },
@@ -2600,7 +2600,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 774359490,
-          "sha256": "a820c202f2130a492b5ad262be47c5a57f70a0daf67bf9554f125b3594ba3ce7",
+          "sha256": "acc8756c47cc3eb0b83f91b2183864e49268b8a971211cf1fca5d92feb0e5e96",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom-linux.zip"
         },
@@ -2611,7 +2611,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 599265048,
-          "sha256": "80420f555f025cb59699b0596031bec4b0cf208eb5aa1ddabc0834ca1fd94f9a",
+          "sha256": "efb29a5ac7714e909d2b90c83704ab7ff451efee133b526b9bcfcda15649da1d",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom-linux-arm64.zip"
         },
@@ -2666,7 +2666,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 742114156,
-          "sha256": "2c39999a0ed5fd3a757a7a4c3ac16a461fc52bdfcd8fced0ab0474cb7a792bc5",
+          "sha256": "968b540a86887c98cce6bd14dce1ee9e0d0f9427dddc5c439cd3f086702c460a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom_type_b-linux.zip"
         },
@@ -2677,7 +2677,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 567019714,
-          "sha256": "5b26c3b5d69aa1b4db625c4628a5e58eae3456c34ddc906e858f267c8b2d61e7",
+          "sha256": "b1b3e61385242548aba368098735a8f845f7405dcdd15c69f637bee96f808039",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-e76215b31d9d9106a461383ae1ec4f378db6d2d8/rom_type_b-linux-arm64.zip"
         },
@@ -2750,7 +2750,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 761293768,
-          "sha256": "f2877074fbcd6f74d4846753aa66dcd9269a73a46a693db58b4314d6271f4e46",
+          "sha256": "9875f7a7a7b5380411901d671c794f1b6f07fab20564e27a540791501d044ee7",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_240p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_240p-linux.zip"
         },
@@ -2761,7 +2761,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 586199326,
-          "sha256": "7bbd4319d52496fa846bd8e4af70df6dd7b580cc86a68a344a74379b0ad669f4",
+          "sha256": "290902aa5dae03f4d0795995588f78dc862a8b6fbe3e5385c8c8c6f578848f41",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_240p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_240p-linux-arm64.zip"
         },
@@ -2816,7 +2816,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 726381823,
-          "sha256": "3163a7c14e2c80a16ed3a28dc58adcac10384c4b34bae5671be4078955959ab1",
+          "sha256": "e6984c25691b827feee2de7a6a71c2511915f4435a528015dce8dc6e21ccd1cf",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_240p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_240p_type_b-linux.zip"
         },
@@ -2827,7 +2827,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 551287381,
-          "sha256": "56f7e0772efda25b73d6386083de5869e231419da74db2489bfec31a6b71d551",
+          "sha256": "56faa1d4ac10355ccb443c005f4533cbc1fcd0d5c582821d56b01d47296f252c",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_240p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_240p_type_b-linux-arm64.zip"
         },
@@ -2882,7 +2882,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 763162434,
-          "sha256": "f516a48830d87ef58d7efcee7dd941d8987678fe6b6c91d95bcc438a90cb85de",
+          "sha256": "76d8d46efa1c02cc724e273796c39361af9de2a1c0fa777d183539a3cb79216f",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_360p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_360p-linux.zip"
         },
@@ -2893,7 +2893,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 588067992,
-          "sha256": "f4574d66b25afebe30fffde2ccd624a0c1c68b32d23119798c23b62c5dda91f9",
+          "sha256": "96207aed64ff42b77833afef4cada420802540584cec0ad7b60574bc079efd49",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_360p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_360p-linux-arm64.zip"
         },
@@ -2948,7 +2948,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 728623307,
-          "sha256": "e17e5b186b3363e166ddcc5d31bb8dd4f42677522f5c9680016a34c5070e6e3d",
+          "sha256": "0d1666c974d336f0204d57623a582d4d7f1cf610ec8c97746c42b0f0b7aad7e0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_360p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_360p_type_b-linux.zip"
         },
@@ -2959,7 +2959,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 553528865,
-          "sha256": "0f0b2218b4682244f3063ac4aa69e19eb335d90de5739f25b15617cde5144227",
+          "sha256": "50297d4a6ef936d8ba3d3878d88f4b392b4c7b291ce788148a90fe613c0ff336",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.4/rom_360p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.4/rom_360p_type_b-linux-arm64.zip"
         },
@@ -3038,7 +3038,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 760983221,
-          "sha256": "a53842e38fe348ac78307f3bd3427153a7fdc05d55b231aca5d7ad31ca0daae7",
+          "sha256": "7c054a18d680141bc52333a6b517940ad52d067a183b76e3771e38e405bb16fd",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p-linux.zip"
         },
@@ -3049,7 +3049,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 585888779,
-          "sha256": "8b1fbd93ad6dad2b01ad7ac4143aea395ee88e3f97d5d90bc617fc12352ebf2e",
+          "sha256": "ab45e637c109bad115e95c5c630e9b42df90927975c99cc399ae4d114f721ab1",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p-linux-arm64.zip"
         },
@@ -3104,7 +3104,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 729351145,
-          "sha256": "883e210fe9d50b0fd5476819534cf56a30283baffb8d92c774d4ada02307d116",
+          "sha256": "e4eb9ed407badacac3ba8b4b26dd2f72999903ec7c903bc47b5bd7aef6dadd31",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p_type_b-linux.zip"
         },
@@ -3115,7 +3115,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 554256703,
-          "sha256": "ac86aef31c384f299b054a2d2832c3e55fb738b077c7e58b909eeaec0a2f8583",
+          "sha256": "d84a8c75b5e814b7d0ccbaa4595b684ff19ef7f56dac8418fbe4b4c89a6b60c9",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_240p_type_b-linux-arm64.zip"
         },
@@ -3170,7 +3170,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 762955054,
-          "sha256": "390cad7dfddfbc607b5d8b0eb0105be92887d01b8d59e372ff787ca3e058bf74",
+          "sha256": "dbf807ced5de99155082c1ead764587f3e8b07084804c9a701a343898c217e1a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p-linux.zip"
         },
@@ -3181,7 +3181,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 587860612,
-          "sha256": "48fc51d0397dfef57a281fc2cb4cfeea9830f4beb6cfc4d040ad440918b9824e",
+          "sha256": "cc1d8d94b82d384c5189fbd4b7f13cd391aabf6e75fe159678cc2d11f7dd166e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p-linux-arm64.zip"
         },
@@ -3236,7 +3236,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 728722713,
-          "sha256": "c26d9406d917fd1fbf1b9a53cc4381e592ece45e8f4e685e59bdfc3d8df09f24",
+          "sha256": "d303b657de99820f39381ea4d48a4668c062adb48824218e7b74748467ef35d8",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p_type_b-linux.zip"
         },
@@ -3247,7 +3247,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 553628271,
-          "sha256": "b4a5bd104055b5cbfa7f2caceb243b0294d1ff5fa21b3e898ffcf960d2abb03c",
+          "sha256": "ac91d0830e80f4e492e6f5de8ae0dae29477c9d26b38911a5ce95bc34bba7daa",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-785381002f50cb58b32990a69df3e0cce5c8a90e/rom_360p_type_b-linux-arm64.zip"
         },
@@ -3325,7 +3325,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 760417933,
-          "sha256": "35ee3128b46e1337b7315abbef8604d3b6c4c0e5f1cb243d5728df5d2b45e901",
+          "sha256": "48235fe1f671477934aefc6374d0c65ca22c5b0017adc0d90f00aa984b813762",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p-linux.zip"
         },
@@ -3336,7 +3336,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 585323491,
-          "sha256": "2a91418284612ebb0e6a0d7aaecf944ec830720c17c66c5915833cb4f48eba2c",
+          "sha256": "1922fcd7b9b5b4e39b889cdef18ab4e219c7b3d2124964eef3f3bc22499ad93a",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p-linux-arm64.zip"
         },
@@ -3391,7 +3391,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 727462131,
-          "sha256": "427ad73213f376cbdecb0d4695e75d9f3a4bb102c0c987cdfc40919cb4193b11",
+          "sha256": "fbe1daea3a4b8d1eb55569f0c1a80f30e6565d340cc4840bdf3c213846355ec9",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p_type_b-linux.zip"
         },
@@ -3402,7 +3402,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 552367689,
-          "sha256": "af0a6b600ce73ad4c77526140fa84360bf42639fb47fc5a03fe4b051c301ac18",
+          "sha256": "247892095d058a50d0429b6f8d8993277f9f042b8680029bb1c9d87054578411",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_240p_type_b-linux-arm64.zip"
         },
@@ -3457,7 +3457,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 762682529,
-          "sha256": "6a11cbc835005afecffd3ee8bf1bdd6583809040f73e165981025e3b4cc70b1a",
+          "sha256": "6996da7328589ff8ca65688d6df23978cfe20eed0fc0942303e8b097ee412beb",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p-linux.zip"
         },
@@ -3468,7 +3468,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 587588087,
-          "sha256": "5a24ca5f4faad4a8680a4210b5ea7612bb4839a392ae1462b82d83c9355f2ff8",
+          "sha256": "bcfbe2f8c46a51e2fecbb0e317dee30e4c82b31dafd304ce73a4b5a57902228d",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p-linux-arm64.zip"
         },
@@ -3523,7 +3523,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 737221605,
-          "sha256": "700f5dc5d4e05356d5dde5a9d42355d320b83fc42cb10b8239b0e99ed51c407a",
+          "sha256": "37ca32e347aeccd68ab87023203baae693fe1e702b94605248499ce04a5a9278",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p_type_b-linux.zip"
         },
@@ -3534,7 +3534,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 562127163,
-          "sha256": "92bafed8abdb224214290ad4a47cdaaa645d7eeb5c3cebd791caee5ba749bab8",
+          "sha256": "a5acc83967dc115cf68ccb95972189476801ca0510811bd9b979ee51259b118e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-0368abe5a5de2e8b8c2995038f49661ec57e827d/rom_360p_type_b-linux-arm64.zip"
         },
@@ -3612,7 +3612,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 758877622,
-          "sha256": "79d5a31808b291dcca4096830320911b8f49255b9c606a412a3d8443902fb465",
+          "sha256": "59dd5305ffde0c90b48ae835ff6903f5dd0554651ef1dcb853f15ce51660ea58",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p-linux.zip"
         },
@@ -3623,7 +3623,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 583783180,
-          "sha256": "f2186de77839b4176b339f50eebfccc3b05348569f3a0e504faef7d23211b5d1",
+          "sha256": "cb34af25d1983f5b8f7c429d3095d348e435da7d199aa257f27639db843b2835",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p-linux-arm64.zip"
         },
@@ -3678,7 +3678,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 729055715,
-          "sha256": "4079a510fa5fd4e17d13d23326380be3489edf7145e621e82f2e7941a31622aa",
+          "sha256": "2d1a63bd76fac77d9fdd46431739e670472a026eb37fb69bcab826dc446b5b75",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p_type_b-linux.zip"
         },
@@ -3689,7 +3689,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 553961273,
-          "sha256": "b2a3f190c0e3f14c12db8a83ae4f91816e7fc6ad5989afbedfc7dfaa52bdd7a6",
+          "sha256": "34f15953964a1d81c20e143581f231dedbdd8fbaf1943e0db539b6b71a229a17",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_240p_type_b-linux-arm64.zip"
         },
@@ -3744,7 +3744,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 763961403,
-          "sha256": "4b2b548c216b2c9389c74db46fd4f8b652a39d867fb6216b0fce5ac6b62251c7",
+          "sha256": "31c82fab2fe2f10aab75ccb1cbe13c31ccaf548ae1583701270423f3de2d6ca9",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p-linux.zip"
         },
@@ -3755,7 +3755,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 588866961,
-          "sha256": "0f8bdf7afeb4231da8246941be1679e2c121647330fa0b65a2cb5dacc071c796",
+          "sha256": "56eed650a1ffc86c09c57018ca3c78942200e9051c91e32e9a4d00d8a2a5192b",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p-linux-arm64.zip"
         },
@@ -3810,7 +3810,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 728616376,
-          "sha256": "b1fba7c1752c58772831688e97d30869e3f75172b21dd0c0d4eb3bc481765eef",
+          "sha256": "61e216e0e9e1107d66a82cc44a4c6a2f4314bfa383f45ce3403c9f1da05db3e5",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p_type_b-linux.zip"
         },
@@ -3821,7 +3821,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 553521934,
-          "sha256": "2c4954c1fbccd90cc2e2b65d9cdbf391b088455cb261aea7cae17e8ac239d243",
+          "sha256": "fe9a43d62dc01841aaec6d4638fc22bd04c89c1c22760079c839fafbcc7808e0",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/nightly-35e926bd6ea663ab0aacb2f138c7f71ae744971f/rom_360p_type_b-linux-arm64.zip"
         },
@@ -3899,7 +3899,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 733383601,
-          "sha256": "27d1e661d69b28c2df4d79b0f74723b934cb635e301feeeee0c10b648d0fb285",
+          "sha256": "29e63dac150bb3f03ef882663848a1c34a13d5b8ae93cc0e12d25eca3366f928",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_240p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_240p-linux.zip"
         },
@@ -3910,7 +3910,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 558289159,
-          "sha256": "7b3a95276c22f3d5669da81be5fecc23907c3b88fe178f31f5cfb4ba8747c91e",
+          "sha256": "3aea925cbb4f0a964713859164eedca7848e8833632caea8dd17e0cc4681c9ae",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_240p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_240p-linux-arm64.zip"
         },
@@ -3965,7 +3965,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 701765175,
-          "sha256": "2c0210db853ff60680474e4a0f0c16a178cb7d3f1d71b311ff3983c569d2c8b4",
+          "sha256": "d589e835eaa0e33799f9b79837b9fa253884f80caaa9e8f4a388944292f86e8b",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_240p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_240p_type_b-linux.zip"
         },
@@ -3976,7 +3976,7 @@
           "model": "Y1",
           "type": "240p",
           "size": 526670733,
-          "sha256": "8c27cca1c1e9e72646bbc8213d2a722975f94544c772c5633b990c79b5156533",
+          "sha256": "7882143f10859b763b94431b097693c010122dab46ee7d47e68df8b6fd281903",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_240p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_240p_type_b-linux-arm64.zip"
         },
@@ -4031,7 +4031,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 735409557,
-          "sha256": "030e63d08c584405cd935868a61897d5c3d7b25b736a69716d46107b56691256",
+          "sha256": "110de10f46a27af3d8328ca2e393010279d96ae8186f2c6412c8bd768656622e",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_360p-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_360p-linux.zip"
         },
@@ -4042,7 +4042,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 560315115,
-          "sha256": "d8d3e4619cb240438be420a8e2e2e9c9e2344ce784ca495bebf8a12cf21820e0",
+          "sha256": "44bc978969eb8bdc586433ea03cb2a8d3ab357853076f78d52b209f144375b26",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_360p-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_360p-linux-arm64.zip"
         },
@@ -4097,7 +4097,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 702106150,
-          "sha256": "7c652e3579160d270d4234234fd246df85aeb52c2275a17e58e05ee74a532a89",
+          "sha256": "ca1019647a46bdce21006fc2d521838bb926b656c689e6f0ce699e95a1414af2",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_360p_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_360p_type_b-linux.zip"
         },
@@ -4108,7 +4108,7 @@
           "model": "Y1",
           "type": "360p",
           "size": 527011708,
-          "sha256": "91854a1ad577370d7c01811999c9341fb9ec6fcfd32dd9162c05a41e431ab352",
+          "sha256": "40158e64c7279d02e704ee4ec0b457fe5cb97ed7861bdeb9b33e3ebe433d85da",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/stable-v0.3/rom_360p_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/stable-v0.3/rom_360p_type_b-linux-arm64.zip"
         },
@@ -4186,7 +4186,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 700422426,
-          "sha256": "b0110d420a1731682e8703450448f50f11ef57126b918344ff9d88a46251b2c9",
+          "sha256": "d43b79c38f8db828f2c01b7ae25bb642f1bb997318e91a00c9ce9a15dea63e52",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/type-b-base/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/type-b-base/rom-linux.zip"
         },
@@ -4197,7 +4197,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 525327984,
-          "sha256": "6111fc843afb4f7cf39a7cb40548cae7bd948d3ddd3b386d9bc92632c8fd6b25",
+          "sha256": "5d17e0509e05cdac5280b6b95619c2d36a998cf5e7280f790c8a490a811c8aed",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/type-b-base/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/type-b-base/rom-linux-arm64.zip"
         },
@@ -4268,7 +4268,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 757425424,
-          "sha256": "f99c5046f7cba8fa0fbd5837dcb1db7e3fe5c42378fd6dedd5cc8ebe740aae50",
+          "sha256": "670bde72fc2b223bbbd021cef88a474b1d2beec57f783cbd1324eabecbf27129",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/type-a-base/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/type-a-base/rom-linux.zip"
         },
@@ -4279,7 +4279,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 582330982,
-          "sha256": "2c12a792e860a7f63e00e13f2de2b12a9aa28025aecc19b81ae0a5b9c35f2cde",
+          "sha256": "7f015df9e9db492af32b0ec04eeb124c9469ef56b2577aafaf85b18ead5c1318",
           "url": "https://github.com/y1-community/rockbox-mirror/releases/download/type-a-base/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/rockbox-mirror/releases/download/type-a-base/rom-linux-arm64.zip"
         },
